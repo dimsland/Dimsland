@@ -4,28 +4,26 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=dimsland&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+    Willkommen auf meinem GitHub-Profil!
   </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-:man_technologist: About Me :
+:man_technologist: Über mich:
 
-- :telescope:Ich bin Schüler an der Schule Lichtenfels und studiere "Technische Assistent für Informatik" (Technischer Assistent für Informatik).
+- :telescope: Ich bin Student an der Schule Lichtenfels, wo ich "Technische Assistent für Informatik" studiere.
+- :seedling: Meine Leidenschaft liegt in der Entwicklung und dem Streben nach Erstellung interaktiver und kreativer Benutzeroberflächen für Websites.
+- :zap: Derzeit lerne ich aktiv die Grundlagen der Programmiersprachen C und C++.
 
-- :seedling: Meine Leidenschaft liegt in der Frontend-Entwicklung, und ich strebe danach, interaktive und kreative Benutzeroberflächen für Websites zu erstellen.
+:gb: Welcome to my GitHub profile!
 
-- :zap: Derzeit lerne ich aktiv die Grundlagen des Programmierens in den Sprachen C und C++.
+- :telescope: I am a student at Lichtenfels School studying "Technical Assistant for Computer Science."
+- :seedling: I am passionate about development, aspiring to create interactive and creative interfaces for websites.
+- :zap: Currently, I am actively learning the fundamentals of the programming languages C and C++.
 
-- :england:
-
-- :telescope:I am a student at Lichtenfels School, where I am studying "Technische Assistent für Informatik" (Technical Assistant for Computer Science).
-- :seedling: My passion lies in frontend development, and I aspire to create interactive and creative user interfaces for websites.
-
-- :zap: Currently, I am actively learning the fundamentals of programming in C and C++.
-
-- :mailbox: Solovod.de@gmail.com
+- :mailbox: Reach out to me at: Solovod.de@gmail.com
+- 
 - ### :hammer_and_wrench: Languages and Tools :
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
